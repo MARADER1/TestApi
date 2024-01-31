@@ -4,6 +4,6 @@
 include_once "apiclient.php";
 
 
-//echo apiclient::Random();
+//echo apiclient::Random("http://localhost");
 
-//echo apiclient::Get(22);
+//echo apiclient::Get("http://localhost",22);
