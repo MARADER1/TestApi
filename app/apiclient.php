@@ -1,6 +1,6 @@
 <?php
 
-class apiclient
+class ApiClient
 {
     public static function Get(string $url, int $id) : int
     {

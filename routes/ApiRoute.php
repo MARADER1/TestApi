@@ -1,6 +1,6 @@
 <?php
 
-include_once "api.php";
+include_once "../app/api.php";
 
 
 $params = explode("/",$_GET['q']);

@@ -1,6 +1,8 @@
 <?php
 
-include_once "DB.php";
+
+include "DB.php";
+
 
 class api
 {
